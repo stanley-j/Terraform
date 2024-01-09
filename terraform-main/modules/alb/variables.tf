@@ -1,0 +1,17 @@
+variable name {}
+variable port {}
+variable protocol {}
+variable name_lb {}
+variable internal {}
+variable load_balancer_type {}
+variable port_lb_l {}
+variable protocol_lb_l {}
+variable type {}
+variable port_lb {}
+variable port_lb_attach {}
+variable vpc_id {}
+variable pub1_sub_id {}
+variable pub2_sub_id {}
+variable my_vpc_sg_id {}
+variable pub1_ec2_id {}
+variable pub2_ec2_id {}

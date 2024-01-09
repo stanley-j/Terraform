@@ -1,0 +1,9 @@
+variable ami {}
+variable instance_type {}
+variable associate_public_ip_address {}
+variable ami_ec2 {}
+variable instance_type_ec2 {}
+variable associate_public_ip_address_ec2 {}
+variable pub1_sub_id {}
+variable pub2_sub_id {}
+variable my_vpc_sg_id {}
